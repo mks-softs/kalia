@@ -1,0 +1,15 @@
+{
+    "name": "@mks-soft/kalya",
+    "version": "2.0.2",
+    "description": "Payement gateway system",
+    "license": "MIT",
+    "repository": "@mks-soft/kalya",
+    "main": "index.js",
+    "keywords": [
+        "kamya",
+        "npm",
+        "package",
+        "mks-soft",
+        "siblo"
+    ]
+}
