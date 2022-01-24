@@ -1,7 +1,7 @@
 # @mks-soft/kalia
 
-[![npm (scoped)](https://img.shields.io/npm/v/@mks-soft/kalia?color=skyblue)])](https://www.npmjs.com/package/@mks-soft/kalya)
-![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/min/@mks-soft/kalia/2.0.0)
+![npm (scoped)](https://img.shields.io/npm/v/@mks-soft/kalia)
+![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/min/@mks-soft/kalia/2.0.4)
 
 payement available all over affrica solution
 
