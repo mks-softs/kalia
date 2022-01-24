@@ -8,7 +8,7 @@ payement available all over affrica solution
 ## Install
 
 ```
-$ npm install @mks-soft/tiny
+$ npm install @mks-soft/kalya
 ```
 
 ## Usage
